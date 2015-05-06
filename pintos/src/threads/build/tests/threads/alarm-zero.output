@@ -1,0 +1,1406 @@
+squish-pty bochs-pintos -q
+PiLo hda4
+Loading.............
+Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it throughgot here 
+otherside of assert 
+made it through102,400 loops/s.
+got here 
+otherside of assert 
+made Kernel command line: -q run alarm-zero
+Pintos booting with 4,096 kB RAM...
+383 pages available in kernel pool.
+383 pages available in user pool.
+priorities: 0 31 
+priorities: 31 0 
+yileding 
+Calibrating timer...  got here 
+otherside of assert 
+made it throughgot here 
+otherside Simulation terminated due to triple fault.

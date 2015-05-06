@@ -1,0 +1,5 @@
+FAIL
+Run spontaneously rebooted 58 times.
+This is most often caused by unhandled page faults.
+Read the Triple Faults section in the Debugging chapter
+of the Pintos manual for more information.
